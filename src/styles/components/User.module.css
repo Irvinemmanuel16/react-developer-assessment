@@ -1,0 +1,11 @@
+.container {
+  border: 2px solid whitesmoke;
+  width: 50%;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px auto;
+  border-radius: 10px;
+}
